@@ -1,0 +1,3 @@
+# Recommender Systems Library for Java (RecSysLib) #
+
+Recommender Systems Library for Java (RecSysLib) try to provide a simple utility package for researchers in recommender systems. It is designed for research in laboratory, not for business. Based on some interfaces like <tt>Predictor</tt>, <tt>Recommender</tt>, researchers can build and evaluate a recommender system rapidly. It provides the implantations of traditional collaborative filtering (CF), Probabilistic Matrix Factorization (PMF) and Latent Dirichlet Allocation (LDA).
